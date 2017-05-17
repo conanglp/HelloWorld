@@ -2,8 +2,7 @@
 Git is free software.
 
 i am new Text
-
-i am ÖÐÎÄ¡£2
+我是中文。
 
 我是外网编辑的文字 。
 i am Edit by net.
