@@ -3,4 +3,4 @@ Git is free software.
 
 i am new Text
 
-i am 中文。
+i am 中文。2
